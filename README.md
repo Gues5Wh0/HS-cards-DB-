@@ -1,2 +1,2 @@
 # HS-cards-DB-
-DB for some cards game
+DB for some card game
